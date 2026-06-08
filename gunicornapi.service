@@ -1,0 +1,18 @@
+[Unit]
+Description=gunicorn daemon
+Requires=gunicornapi.socket
+After=network.target
+
+[Service]
+User=varun
+Group=www-data
+WorkingDirectory=/home/varun/apiapp
+ExecStart=/home/varun/pscapp/bin/gunicorn \
+          --access-logfile - \
+          --workers 3 \
+          --bind unix:/run/gunicornapi.sock \
+	  #--pythonpath /home/varun/psc \
+          apiapp.wsgi:application
+
+[Install]
+WantedBy=multi-user.target

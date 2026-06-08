@@ -1,0 +1,8 @@
+[Unit]
+Description=gunicorn socket
+
+[Socket]
+ListenStream=/run/gunicorntimetableweb.sock
+
+[Install]
+WantedBy=sockets.target

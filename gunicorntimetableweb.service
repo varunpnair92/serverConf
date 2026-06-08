@@ -1,0 +1,17 @@
+[Unit]
+Description=gunicorn daemon fisattt
+Requires=gunicorntimetableweb.socket
+After=network.target
+
+[Service]
+User=varun
+Group=www-data
+WorkingDirectory=/home/varun/timetable
+ExecStart=/home/varun/pscapp/bin/gunicorn \
+          --access-logfile - \
+          --workers 3 \
+          --bind unix:/run/gunicorntimetableweb.sock \
+          fisatlab.wsgi:application
+
+[Install]
+WantedBy=multi-user.target

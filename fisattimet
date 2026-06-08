@@ -1,0 +1,26 @@
+server {
+#listen 5544 ssl;
+        #listen 5544 ssl;
+        #listen 80 default_server;
+        #listen [::]:80 default_server;
+     #   ssl_certificate /home/varun/pscapp.work.gd.cer;
+    #ssl_certificate_key /home/varun/pscapp.work.gd.key;
+    #ssl_trusted_certificate /home/varun/ca.cer;
+
+
+proxy_busy_buffers_size   512k;
+ proxy_buffers   4 512k;
+ proxy_buffer_size   256k;
+    listen 4455;
+    server_name 13.61.176.252:4455;
+
+   # location = /favicon.ico { access_log off; log_not_found off; }
+    location /static/ {
+        root /home/varun/fisattt;
+    }
+
+    location / {
+        include proxy_params;
+        proxy_pass http://unix:/run/gunicorntimet.sock;
+    }
+}

@@ -1,0 +1,17 @@
+server {
+proxy_busy_buffers_size   512k;
+ proxy_buffers   4 512k;
+ proxy_buffer_size   256k;
+    listen 7777;
+    server_name 13.61.176.252:7777;
+
+   # location = /favicon.ico { access_log off; log_not_found off; }
+    location /static/ {
+        root /home/varun/timetable;
+    }
+
+    location / {
+        include proxy_params;
+        proxy_pass http://unix:/run/gunicorntimetableweb.sock;
+    }
+}
