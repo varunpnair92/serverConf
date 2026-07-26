@@ -1,0 +1,676 @@
+[
+    {
+        "name": "LDC",
+        "navigation": "studyFull",
+        "url": "",
+        "keywords": [],
+        "access_type": "free",
+        "plans": [],
+        "visible_to": [],
+        "children": [
+            {
+                "name": "liveexam",
+                "navigation": "examstorypage",
+                "url": "activeexams/live",
+                "keywords": [],
+                "access_type": "free",
+                "plans": [],
+                "visible_to": []
+            },
+            {
+                "name": "NEWS",
+                "navigation": "newsfeeder",
+                "url": "active-news",
+                "keywords": [],
+                "access_type": "free",
+                "plans": [],
+                "visible_to": []
+            },
+            {
+                "name": "STUDY",
+                "navigation": "studyFull",
+                "url": "",
+                "keywords": [],
+                "access_type": "free",
+                "plans": [],
+                "visible_to": [
+                    "Gold"
+                ],
+                "children": [
+                    {
+                        "name": "കല",
+                        "navigation": "studyFull",
+                        "url": "",
+                        "keywords": [],
+                        "access_type": "free",
+                        "plans": [],
+                        "visible_to": [],
+                        "children": [
+                            {
+                                "name": "സിനിമ",
+                                "navigation": "studyFull",
+                                "url": "",
+                                "keywords": [],
+                                "access_type": "free",
+                                "plans": [],
+                                "visible_to": [],
+                                "children": [
+                                    {
+                                        "name": "മോഹൻലാൽ",
+                                        "navigation": "studyFull",
+                                        "url": "",
+                                        "keywords": [],
+                                        "access_type": "free",
+                                        "plans": [],
+                                        "visible_to": []
+                                    },
+                                    {
+                                        "name": "മമ്മൂട്ടി",
+                                        "navigation": "studyFull",
+                                        "url": "",
+                                        "keywords": [],
+                                        "access_type": "free",
+                                        "plans": [],
+                                        "visible_to": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "നൃത്തരൂപങ്ങൾ",
+                                "navigation": "studyFull",
+                                "url": "",
+                                "keywords": [],
+                                "access_type": "free",
+                                "plans": [],
+                                "visible_to": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "പൊതുവിജ്ഞാനം",
+                        "navigation": "studyFull",
+                        "url": "",
+                        "keywords": [],
+                        "access_type": "free",
+                        "plans": [
+                            "Free"
+                        ],
+                        "visible_to": [],
+                        "children": [
+                            {
+                                "name": "നവോത്ഥാനം",
+                                "navigation": "studyFull",
+                                "url": "",
+                                "keywords": [],
+                                "access_type": "free",
+                                "plans": [],
+                                "visible_to": [],
+                                "children": [
+                                    {
+                                        "name": "നവോത്ഥാന നായകന്മാർ",
+                                        "navigation": "studyFull",
+                                        "url": "",
+                                        "keywords": [],
+                                        "access_type": "free",
+                                        "plans": [],
+                                        "visible_to": [],
+                                        "children": [
+                                            {
+                                                "name": "ശ്രീനാരായണഗുരു",
+                                                "navigation": "studyFull",
+                                                "url": "",
+                                                "keywords": [],
+                                                "access_type": "free",
+                                                "plans": [],
+                                                "visible_to": []
+                                            },
+                                            {
+                                                "name": "കുമാരനാശാൻ",
+                                                "navigation": "studyFull",
+                                                "url": "",
+                                                "keywords": [],
+                                                "access_type": "free",
+                                                "plans": [],
+                                                "visible_to": []
+                                            },
+                                            {
+                                                "name": "മന്നത്ത് പത്മനാഭൻ",
+                                                "navigation": "studyFull",
+                                                "url": "",
+                                                "keywords": [],
+                                                "access_type": "free",
+                                                "plans": [],
+                                                "visible_to": []
+                                            },
+                                            {
+                                                "name": "അയ്യങ്കാളി",
+                                                "navigation": "studyFull",
+                                                "url": "",
+                                                "keywords": [],
+                                                "access_type": "free",
+                                                "plans": [],
+                                                "visible_to": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "മുഖ്യമന്ത്രിമാർ",
+                                "navigation": "studyFull",
+                                "url": "",
+                                "keywords": [],
+                                "access_type": "free",
+                                "plans": [],
+                                "visible_to": [],
+                                "children": [
+                                    {
+                                        "name": "പട്ടം എ. താണുപിള്ള",
+                                        "navigation": "studyFull",
+                                        "url": "",
+                                        "keywords": [],
+                                        "access_type": "free",
+                                        "plans": [],
+                                        "visible_to": []
+                                    },
+                                    {
+                                        "name": "ആർ. ശങ്കർ",
+                                        "navigation": "studyFull",
+                                        "url": "",
+                                        "keywords": [],
+                                        "access_type": "free",
+                                        "plans": [],
+                                        "visible_to": []
+                                    },
+                                    {
+                                        "name": "പിണറായി വിജയൻ",
+                                        "navigation": "studyFull",
+                                        "url": "",
+                                        "keywords": [],
+                                        "access_type": "free",
+                                        "plans": [],
+                                        "visible_to": []
+                                    },
+                                    {
+                                        "name": "ഇ.എം.എസ്. നമ്പൂതിരിപ്പാട്",
+                                        "navigation": "studyFull",
+                                        "url": "",
+                                        "keywords": [],
+                                        "access_type": "free",
+                                        "plans": [],
+                                        "visible_to": []
+                                    },
+                                    {
+                                        "name": "സി. അച്യുതമേനോൻ",
+                                        "navigation": "studyFull",
+                                        "url": "",
+                                        "keywords": [],
+                                        "access_type": "free",
+                                        "plans": [],
+                                        "visible_to": []
+                                    },
+                                    {
+                                        "name": "കെ. കരുണാകരൻ",
+                                        "navigation": "studyFull",
+                                        "url": "",
+                                        "keywords": [],
+                                        "access_type": "free",
+                                        "plans": [],
+                                        "visible_to": []
+                                    },
+                                    {
+                                        "name": "എ.കെ. ആന്റണി",
+                                        "navigation": "studyFull",
+                                        "url": "",
+                                        "keywords": [],
+                                        "access_type": "free",
+                                        "plans": [],
+                                        "visible_to": []
+                                    },
+                                    {
+                                        "name": "ഇ.കെ. നയനാർ",
+                                        "navigation": "studyFull",
+                                        "url": "",
+                                        "keywords": [],
+                                        "access_type": "free",
+                                        "plans": [],
+                                        "visible_to": []
+                                    },
+                                    {
+                                        "name": "ഉമ്മൻ ചാണ്ടി",
+                                        "navigation": "studyFull",
+                                        "url": "",
+                                        "keywords": [],
+                                        "access_type": "free",
+                                        "plans": [],
+                                        "visible_to": []
+                                    },
+                                    {
+                                        "name": "വി.എസ്. അച്യുതാനന്ദൻ",
+                                        "navigation": "studyFull",
+                                        "url": "",
+                                        "keywords": [],
+                                        "access_type": "free",
+                                        "plans": [],
+                                        "visible_to": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "ഇന്ത്യൻ പ്രധാനമന്ത്രിമാർ",
+                                "navigation": "parentNavigation",
+                                "url": "parent-keyword-with-child-description/?keyword",
+                                "keywords": [
+                                    "ഇന്ത്യൻ പ്രധാനമന്ത്രിമാർ"
+                                ],
+                                "access_type": "free",
+                                "plans": [],
+                                "visible_to": []
+                            },
+                            {
+                                "name": "സിനിമ",
+                                "navigation": "parentNavigation",
+                                "url": "parent-keyword-with-child-description/?keyword",
+                                "keywords": [
+                                    "സിനിമ"
+                                ],
+                                "access_type": "free",
+                                "plans": [
+                                    "Free"
+                                ],
+                                "visible_to": []
+                            },
+                            {
+                                "name": "കേരളം നദികൾ",
+                                "navigation": "studyFull",
+                                "url": "parent-keyword-with-child-description/?keyword",
+                                "keywords": [
+                                    "കേരള നദികൾ"
+                                ],
+                                "access_type": "free",
+                                "plans": [
+                                    "Free"
+                                ],
+                                "visible_to": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "booster",
+                "navigation": "studyFull",
+                "url": "",
+                "keywords": [],
+                "access_type": "free",
+                "plans": [],
+                "visible_to": [
+                    "Gold"
+                ],
+                "children": [
+                    {
+                        "name": "EXAM",
+                        "navigation": "dynamicExamList",
+                        "url": "activeexams/booster",
+                        "keywords": [],
+                        "access_type": "free",
+                        "plans": [],
+                        "visible_to": []
+                    },
+                    {
+                        "name": "കുമാരനാശാൻ",
+                        "navigation": "story",
+                        "url": "",
+                        "keywords": [
+                            "കുമാരനാശാൻ"
+                        ],
+                        "access_type": "paid",
+                        "plans": [],
+                        "visible_to": []
+                    },
+                    {
+                        "name": "ExamSplash",
+                        "navigation": "examSplash",
+                        "url": "",
+                        "keywords": [
+                            "2"
+                        ],
+                        "access_type": "free",
+                        "plans": [],
+                        "visible_to": []
+                    },
+                    {
+                        "name": "Vharrecyeristic",
+                        "navigation": "keywordDetails",
+                        "url": "",
+                        "keywords": [],
+                        "access_type": "free",
+                        "plans": [
+                            "Free"
+                        ],
+                        "visible_to": []
+                    },
+                    {
+                        "name": "മലയാള സിനിമ",
+                        "navigation": "studyFull",
+                        "url": "",
+                        "keywords": [
+                            "മലയാള സിനിമ"
+                        ],
+                        "access_type": "free",
+                        "plans": [
+                            "Free"
+                        ],
+                        "visible_to": []
+                    },
+                    {
+                        "name": "summary",
+                        "navigation": "keywordSummary",
+                        "url": "keyword-search-summary",
+                        "keywords": [],
+                        "access_type": "free",
+                        "plans": [
+                            "Free"
+                        ],
+                        "visible_to": []
+                    },
+                    {
+                        "name": "അണക്കെട്ട്",
+                        "navigation": "keywordSummary",
+                        "url": "keyword-search-summary",
+                        "keywords": [
+                            "അണക്കെട്ട്"
+                        ],
+                        "access_type": "free",
+                        "plans": [
+                            "Free"
+                        ],
+                        "visible_to": []
+                    },
+                    {
+                        "name": "Imp",
+                        "navigation": "knowledgeCapsule",
+                        "url": "keyword-summary-knowledge-capsule",
+                        "keywords": [],
+                        "access_type": "free",
+                        "plans": [
+                            "Free"
+                        ],
+                        "visible_to": []
+                    },
+                    {
+                        "name": "ശ്രീനാരായണഗുരു",
+                        "navigation": "studyFull",
+                        "url": "",
+                        "keywords": [
+                            "ശ്രീനാരായണഗുരു"
+                        ],
+                        "access_type": "free",
+                        "plans": [],
+                        "visible_to": []
+                    }
+                ]
+            },
+            {
+                "name": "attempts",
+                "navigation": "studyFull",
+                "url": "",
+                "keywords": [],
+                "access_type": "free",
+                "plans": [],
+                "visible_to": [
+                    "Gold"
+                ],
+                "children": [
+                    {
+                        "name": "കുമാരനാശാൻ",
+                        "navigation": "studyFull",
+                        "url": "",
+                        "keywords": [],
+                        "access_type": "free",
+                        "plans": [],
+                        "visible_to": []
+                    },
+                    {
+                        "name": "Important",
+                        "navigation": "characteristic",
+                        "url": "",
+                        "keywords": [],
+                        "access_type": "free",
+                        "plans": [],
+                        "visible_to": []
+                    },
+                    {
+                        "name": "CURRENT AFFAIR",
+                        "navigation": "studyFull",
+                        "url": "keywords-by-category/കറന്റ് അഫയർ/",
+                        "keywords": [],
+                        "access_type": "free",
+                        "plans": [],
+                        "visible_to": []
+                    },
+                    {
+                        "name": "Exams",
+                        "navigation": "dynamicExamList",
+                        "url": "activeexams/booster",
+                        "keywords": [],
+                        "access_type": "free",
+                        "plans": [],
+                        "visible_to": []
+                    },
+                    {
+                        "name": "DayInHistory",
+                        "navigation": "studyFull",
+                        "url": "",
+                        "keywords": [],
+                        "access_type": "paid",
+                        "plans": [],
+                        "visible_to": [],
+                        "children": [
+                            {
+                                "name": "Today",
+                                "navigation": "story",
+                                "url": "",
+                                "keywords": [
+                                    "പെരിയാർ"
+                                ],
+                                "access_type": "free",
+                                "plans": [],
+                                "visible_to": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "നരേന്ദ്ര മോദി ",
+                        "navigation": "studyFull",
+                        "url": "",
+                        "keywords": [],
+                        "access_type": "free",
+                        "plans": [
+                            "Free"
+                        ],
+                        "visible_to": []
+                    },
+                    {
+                        "name": "TimeLIne",
+                        "navigation": "timeline",
+                        "url": "keywordtimeline",
+                        "keywords": [
+                            "കേരള സമരങ്ങൾ"
+                        ],
+                        "access_type": "free",
+                        "plans": [
+                            "Free"
+                        ],
+                        "visible_to": []
+                    }
+                ]
+            },
+            {
+                "name": "Test",
+                "navigation": "studyFull",
+                "url": "",
+                "keywords": [],
+                "access_type": "free",
+                "plans": [
+                    "Free"
+                ],
+                "visible_to": [
+                    "admin"
+                ],
+                "children": [
+                    {
+                        "name": "Test",
+                        "navigation": "studyFull",
+                        "url": "parent-keyword-with-child-description/?keyword",
+                        "keywords": [
+                            "test"
+                        ],
+                        "access_type": "free",
+                        "plans": [
+                            "Free"
+                        ],
+                        "visible_to": []
+                    }
+                ]
+            },
+            {
+                "name": "EXAM",
+                "navigation": "studyFull",
+                "url": "",
+                "keywords": [],
+                "access_type": "free",
+                "plans": [
+                    "Free"
+                ],
+                "visible_to": [],
+                "children": [
+                    {
+                        "name": "RANK BOOSTER",
+                        "navigation": "dynamicExamList",
+                        "url": "activeexams/booster",
+                        "keywords": [],
+                        "access_type": "free",
+                        "plans": [],
+                        "visible_to": []
+                    },
+                    {
+                        "name": "LIVE EXAMS",
+                        "navigation": "dynamicExamList",
+                        "url": "activeexams/live",
+                        "keywords": [],
+                        "access_type": "free",
+                        "plans": [],
+                        "visible_to": []
+                    }
+                ]
+            },
+            {
+                "name": "story",
+                "navigation": "navigationSlide",
+                "url": "",
+                "keywords": [],
+                "access_type": "free",
+                "plans": [],
+                "visible_to": [],
+                "children": [
+                    {
+                        "name": "Periyar",
+                        "navigation": "story",
+                        "url": "",
+                        "keywords": [
+                            "പെരിയാർ"
+                        ],
+                        "access_type": "free",
+                        "plans": [],
+                        "visible_to": []
+                    },
+                    {
+                        "name": "Bharathappuzha",
+                        "navigation": "studyFull",
+                        "url": "",
+                        "keywords": [
+                            "പെരിയാർ"
+                        ],
+                        "access_type": "free",
+                        "plans": [],
+                        "visible_to": []
+                    },
+                    {
+                        "name": "Chalkakkudyppuzha",
+                        "navigation": "studyFull",
+                        "url": "",
+                        "keywords": [
+                            "ചാലക്കുടിപ്പുഴ"
+                        ],
+                        "access_type": "free",
+                        "plans": [],
+                        "visible_to": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "LGS",
+        "navigation": "studyFull",
+        "url": "",
+        "keywords": [],
+        "access_type": "free",
+        "plans": [],
+        "visible_to": [],
+        "children": [
+            {
+                "name": "STUDY",
+                "navigation": "studyFull",
+                "url": "",
+                "keywords": [],
+                "access_type": "free",
+                "plans": [],
+                "visible_to": [],
+                "children": [
+                    {
+                        "name": "GK",
+                        "navigation": "studyFull",
+                        "url": "",
+                        "keywords": [],
+                        "access_type": "free",
+                        "plans": [],
+                        "visible_to": [],
+                        "children": [
+                            {
+                                "name": "River",
+                                "navigation": "studyFull",
+                                "url": "",
+                                "keywords": [],
+                                "access_type": "free",
+                                "plans": [],
+                                "visible_to": [],
+                                "children": [
+                                    {
+                                        "name": "ഭാരതപ്പുഴ",
+                                        "navigation": "studyFull",
+                                        "url": "",
+                                        "keywords": [],
+                                        "access_type": "paid",
+                                        "plans": [],
+                                        "visible_to": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "RRB",
+        "navigation": "studyFull",
+        "url": "",
+        "keywords": [],
+        "access_type": "free",
+        "plans": [],
+        "visible_to": []
+    }
+]
